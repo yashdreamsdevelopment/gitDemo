@@ -1,8 +1,5 @@
 this is version 1 of project.
 i want this going to commit 3.
-changed by harry
-
-now admin has changed this file
-again this is changed by the admin
+now the admin is yashwant
 
 
